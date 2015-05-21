@@ -47,7 +47,7 @@
 
     <mg>
       <tg xml:lang="olo">
-        <t Contlex="NUM_YKSI" pos="Num">kaksi</t>
+        <t Contlex="NUM_KAKSI" pos="Num">kaksi</t>
       </tg>
     </mg>
   </e>
@@ -64,6 +64,22 @@
     <mg>
       <tg xml:lang="olo">
         <t Contlex="NUM_KOLME" pos="Num">kolme</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">miljoona</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="NUM_MUARJU" pos="Num">miljounu</t>
       </tg>
     </mg>
   </e>

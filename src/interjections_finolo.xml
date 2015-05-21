@@ -22,6 +22,38 @@
 
   <e>
     <lg>
+      <l pos="Pcle">-han</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PCLE_" pos="Pcle">vet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">-hän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PCLE_" pos="Pcle">vet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">Apua!</l>
 
       <stg>
@@ -58,6 +90,22 @@
 
   <e>
     <lg>
+      <l pos="Interj">ei</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="INTERJ_" pos="Interj">ei</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">ihan totta</l>
 
       <stg>
@@ -84,6 +132,22 @@
     <mg>
       <tg xml:lang="olo">
         <t Contlex="INTERJ_" pos="Interj">čukki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">lampaan kutsuhuuto</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="INTERJ_" pos="Interj">este</t>
       </tg>
     </mg>
   </e>
@@ -164,6 +228,22 @@
     <mg>
       <tg xml:lang="olo">
         <t Contlex="INTERJ_" pos="Interj">hengiristi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">uitti-uitti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="INTERJ_" pos="Interj">este</t>
       </tg>
     </mg>
   </e>

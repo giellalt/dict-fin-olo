@@ -70,6 +70,38 @@
 
   <e>
     <lg>
+      <l pos="Po">asemasta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PO_" pos="Po">eziči</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">editse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PO_" pos="Po">eziči</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Po">mukaan</l>
 
       <stg>
@@ -86,8 +118,7 @@
 
   <e>
     <lg>
-      <l pos="A">transl. saada valmiiksi, saada aikaan, saada aikaiseksi,
-        tulla valmiiksi, tulla aikaan, tulla aikaiseksi</l>
+      <l pos="Po">ohitse</l>
 
       <stg>
         <st/>
@@ -96,7 +127,89 @@
 
     <mg>
       <tg xml:lang="olo">
-        <t Contlex="PO_KIELINE" pos="Po">aiguhine</t>
+        <t Contlex="PO_" pos="Po">eziči</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sijaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PO_" pos="Po">eziči</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">takia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PREP_" pos="Pr">tokkua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">tähden</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PREP_" pos="Pr">täh</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">tähden</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PO_" pos="Po">eziči</t>
+
+        <t Contlex="PREP_" pos="Pr">tokkua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vasten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PO_" pos="Po">vaste</t>
       </tg>
     </mg>
   </e>
