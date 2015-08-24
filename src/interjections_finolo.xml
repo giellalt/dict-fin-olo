@@ -1,266 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
 
-  <e>
-    <lg>
-      <l pos="Pcle">-han</l>
 
-      <stg>
-        <st/>
-      </stg>
-    </lg>
 
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="PCLE_" pos="Pcle">vet</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="Interj">-hän</l>
 
-      <stg>
-        <st/>
-      </stg>
-    </lg>
 
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="PCLE_" pos="Pcle">vet</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="Interj">Apua!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">karavuu</t>
-
-        <t Contlex="INTERJ_" pos="Interj">karavuu</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">Auttakaa!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">karavuu</t>
-
-        <t Contlex="INTERJ_" pos="Interj">karavuu</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ei</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">ei</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ihan totta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">hengiristi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">kos-kos</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">čukki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">lampaan kutsuhuuto</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">este</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">lupaan ja vannon (kautta kiven ja kannon)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">hengiristi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">näet</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="PCLE_" pos="Pcle">vet</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ole hyvä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">ole hyvä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">siankutsu</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">čukki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">totinen tosi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">hengiristi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">uitti-uitti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">este</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">vannon</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="olo">
-        <t Contlex="INTERJ_" pos="Interj">hengiristi</t>
-      </tg>
-    </mg>
-  </e>
+<e> <lg> <l pos="Pcle">-han</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">-hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Apua!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Auttakaa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ei</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ihan totta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kos-kos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lampaan kutsuhuuto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lupaan ja vannon (kautta kiven ja kannon)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">näet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ole hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ole hyvä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">siankutsu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totinen tosi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">uitti-uitti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vannon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
 </r>
