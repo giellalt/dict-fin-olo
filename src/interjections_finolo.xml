@@ -15,19 +15,19 @@
 
 
 
-<e> <lg> <l pos="Pcle">-han</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">-hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Apua!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Auttakaa!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
-<e> <lg> <l pos="">ei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ei</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ihan totta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">kos-kos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">lampaan kutsuhuuto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">lupaan ja vannon (kautta kiven ja kannon)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">näet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ole hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ole hyvä</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">siankutsu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">totinen tosi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">uitti-uitti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">vannon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">-han</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">-hän</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Apua!</l></lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Auttakaa!</l></lg> <mg> <tg xml:lang="olo"><t Contlex="INTERJ_" pos="Interj">karavuu</t> <t Contlex="INTERJ_" pos="Interj">karavuu</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ei</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ei</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ihan totta</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kos-kos</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lampaan kutsuhuuto</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lupaan ja vannon (kautta kiven ja kannon)</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">näet</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="PCLE_" pos="Pcle">vet</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ole hyvä</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">ole hyvä</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">siankutsu</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">čukki</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">totinen tosi</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">uitti-uitti</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">este</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vannon</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="INTERJ_" pos="Interj">hengiristi</t> </tg> </mg> </e>
 </r>

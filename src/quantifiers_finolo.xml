@@ -71,11 +71,11 @@
 
 
 
-<e> <lg> <l pos="Qnt">kahdestaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_" pos="Num">kahtei</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_KAKSI" pos="Num">kaksi</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kolme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_KOLME" pos="Num">kolme</t> </tg> </mg> </e>
-<e> <lg> <l pos="">miljoona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_MUARJU" pos="Num">miljounu</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seitsemän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_SEIČČIE" pos="Num">seiččie</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="ORD_TOINE" pos="Qnt">toine</t> </tg> </mg> </e>
-<e> <lg> <l pos="Qnt">usein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="QNT-ITER" pos="Qnt">puaksužeh</t> </tg> </mg> </e>
+<e> <lg> <l pos="Qnt">kahdestaan</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_" pos="Num">kahtei</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksi</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_KAKSI" pos="Num">kaksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolme</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_KOLME" pos="Num">kolme</t> </tg> </mg> </e>
+<e> <lg> <l pos="">miljoona</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_MUARJU" pos="Num">miljounu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemän</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="NUM_SEIČČIE" pos="Num">seiččie</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">toinen</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="ORD_TOINE" pos="Qnt">toine</t> </tg> </mg> </e>
+<e> <lg> <l pos="Qnt">usein</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="QNT-ITER" pos="Qnt">puaksužeh</t> </tg> </mg> </e>
 </r>

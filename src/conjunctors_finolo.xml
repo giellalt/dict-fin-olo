@@ -8,10 +8,10 @@
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-<e> <lg> <l pos="CC">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"><t Contlex="CC_" pos="CC">da</t> <t Contlex="CC_" pos="CC">dai</t> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">ku</t> </tg> </mg> </e>
-<e> <lg> <l pos="">kun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">konzu</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">mutta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">eiga</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">vaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">eiga</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">ja</l></lg> <mg> <tg xml:lang="olo"><t Contlex="CC_" pos="CC">da</t> <t Contlex="CC_" pos="CC">dai</t> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">koska</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">ku</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kun</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">konzu</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">mutta</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="CC_" pos="CC">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tai</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">eiga</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vaikka</l></lg> <mg> <tg xml:lang="olo"> <t Contlex="CS_" pos="CS">eiga</t> </tg> </mg> </e>
 </r>
